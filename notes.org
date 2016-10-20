@@ -1,0 +1,16 @@
+* Emacs is awesome
+** Packages
+I have come across a collection of useful packages. Here they are so I don't forget:
+[[https://melpa.org/#/markdown-mode][Markdown Mode]]
+[[https://github.com/Malabarba/smart-mode-line][Smart Mode Line]]
+** Stack Overflow Log
+[[http://superuser.com/questions/402747/emacs-eshell-over-ssh-not-obeying-key-commands-or-elisp][SSH and Eshell are not behaving]]
+** Themes
+[[https://www.quora.com/What-are-some-good-Emacs-color-themes-to-use][Quora forum for suggested themes]]
+I have tried out:
+default theme 
+*** TODO find the name of the default theme
+*** Blackboard
+Pretty vibrant dark theme. didn't like it a whole lot yet.
+*** Zenburn
+low contrast, dark theme. I like it fine, but the light default theme is pretty awesome.
